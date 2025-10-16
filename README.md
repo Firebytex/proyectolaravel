@@ -18,8 +18,8 @@ Antes de empezar, asegúrate de tener instalado en tu computadora:
 Clona el repositorio en tu computadora:
 
 ```bash
-git clone [URL_DEL_REPOSITORIO]
-cd [nombre-del-proyecto]
+git clone https://github.com/Firebytex/proyectolaravel.git
+cd proyectolaravel
 ```
 
 ---
@@ -33,10 +33,6 @@ Copia el archivo de ejemplo de configuración:
 copy .env.example .env
 ```
 
-**En Mac/Linux:**
-```bash
-cp .env.example .env
-```
 
 📝 **¿Qué hace esto?** Crea un archivo con la configuración de tu base de datos y otros ajustes importantes.
 
